@@ -2,7 +2,7 @@
 
 - 🔭 I am currently developing a page with a CRUD system using PHP and MySQL
 - 🌱 I’m currently learning PHP and Python
-- 👯 I’m looking to collaborate with other developers
+- 📧 joaoschuab@outlook.com
 
 <!---
 schuabjp/schuabjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
