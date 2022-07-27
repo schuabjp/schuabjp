@@ -3,7 +3,27 @@
 - 🔭 I am currently developing a page with a CRUD system using PHP and MySQL
 - 🌱 I’m currently learning PHP and Python
 - 📧 joaoschuab@outlook.com
+##
 
+<div align="center">
+  <a href="https://github.com/schuabjp">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=schuabjp&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schuabjp&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="schuabjp-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="schuabjp-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="schuabjp-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="schuabjp-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="schuabjp-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="schuabjp-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="schuabjp-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="schuabjp-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="schuabjp-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
 
 
 <!---
