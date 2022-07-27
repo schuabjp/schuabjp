@@ -1,7 +1,7 @@
 ## Hi there, I'm João Pedro 👋 
 
-- 🔭 I’m currently developing a game using C# and Unity
-- 🌱 I’m currently learning Python and Java
+- 🔭 I am currently developing a page with a CRUD system using PHP and MySQL
+- 🌱 I’m currently learning PHP and Python
 - 👯 I’m looking to collaborate with other developers
 
 <!---
