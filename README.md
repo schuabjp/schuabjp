@@ -3,10 +3,6 @@
 - 🔭 I am currently developing a page with a CRUD system using PHP and MySQL
 - 🌱 I’m currently learning PHP and Python
 - 📧 joaoschuab@outlook.com
-##
-![Snake animation](https://github.com/schuabjp/schuabjp/blob/output/github-contribution-grid-snake.svg)
-##
-
 
 
 
