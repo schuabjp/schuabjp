@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/schuabjp">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=schuabjp&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=schuabjp&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
