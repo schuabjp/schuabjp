@@ -1,7 +1,7 @@
 ## Hi there, I'm João Pedro 👋 
 
 - 🔭 I am currently developing a page with a CRUD system using PHP and MySQL
-- 🌱 I’m currently learning PHP and Python
+- 🌱 I’m currently learning Laravel and Python
 - 📧 joaoschuab@outlook.com
 ##
 
