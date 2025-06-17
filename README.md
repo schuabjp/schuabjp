@@ -1,3 +1,3 @@
-## Hi there 👋 
+## Hello there 👋 
 
 - 📧 joaoschuab@outlook.com
