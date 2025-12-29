@@ -8,6 +8,4 @@
   <img align="center" alt="schuabjp-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="schuabjp-LIVEWIRE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"> 
   <img align="center" alt="schuabjp-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-</div><br>
-
-![schuabjp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schuabjp&theme=dark&show_icons=true&hide_border=false&layout=compact)
+</div>
